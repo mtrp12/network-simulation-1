@@ -21,7 +21,7 @@ The `netsim.sh` script is designed to simulate a basic network architecture with
 
 The network architecture consists of three namespaces (`ns1`, `ns2`, and `router-ns`) connected via two bridges (`br0` and `br1`). Below are the diagrams illustrating the setup:
 
-![alt text](images/image-4.png)
+![alt text](images/image.png)
 
 ## IP Address Scheme
 
